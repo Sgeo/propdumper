@@ -3,3 +3,7 @@
 /aworld/aworld-sys/Aw.h
 /aworld/aworld-sys/aw64.dll
 /aworld/aworld-sys/aw64.lib
+/aworld/target
+/aworld/Cargo.lock
+target
+/aworld/aworld-sys/Cargo.lock
