@@ -1,2 +1,5 @@
 /target/
 **/*.rs.bk
+/aworld/aworld-sys/Aw.h
+/aworld/aworld-sys/aw64.dll
+/aworld/aworld-sys/aw64.lib
